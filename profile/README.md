@@ -1,4 +1,7 @@
-<img src="https://rapidbizz.com/Media/Rapidbizz-logo-1.png" alt="RapidBizz" width="360">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/rapidbizz-logo-light.png">
+  <img src="../assets/rapidbizz-logo-dark.png" alt="RapidBizz" width="360">
+</picture>
 
 # RapidBizz Pvt. Ltd.
 
