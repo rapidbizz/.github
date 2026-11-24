@@ -41,6 +41,12 @@ We simplify the complex: one team for strategy, design, development, AI automati
 
 ---
 
+## Client work
+
+- **Ostroluxx** — Lighting brand: final client website with product catalogue, 3D models and SEO package.
+
+---
+
 ## How we work
 
 1. **Discovery first** — clear requirements before we build.
