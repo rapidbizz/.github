@@ -1,9 +1,13 @@
+<img src="https://rapidbizz.com/Media/Rapidbizz-logo-1.png" alt="RapidBizz" width="360">
+
 # RapidBizz Pvt. Ltd.
 
 ### We are The Brilliants In Terms Of Digital Agency.
 
-**Dubai, UAE · with a delivery team in Pakistan**  
-🌐 [rapidbizz.com](https://rapidbizz.com) · ✉️ Contact@rapidbizz.com
+**Dubai, UAE · with a delivery team in Pakistan**
+🌐 [rapidbizz.com](https://rapidbizz.com) · ✉️ Contact@rapidbizz.com · 📞 +971 54 541 0775
+
+[LinkedIn](https://www.linkedin.com/company/rapidbizz/) · [Instagram](https://www.instagram.com/rapidbizz.pvt.ltd/) · [Facebook](https://www.facebook.com/people/RapidBizz/61565985900019/) · [GitHub](https://github.com/rapidbizz)
 
 RapidBizz is a digital solutions agency building websites, custom software, SaaS products, and AI-powered systems for growing businesses — in the UAE and worldwide.
 
@@ -47,6 +51,13 @@ We work with established SMEs, growing companies, agencies needing a delivery pa
 
 - Website: [rapidbizz.com](https://rapidbizz.com)
 - Email: Contact@rapidbizz.com
+- Phone / WhatsApp: +971 54 541 0775
 - Location: Dubai, UAE
+
+## Connect
+
+- LinkedIn: [linkedin.com/company/rapidbizz](https://www.linkedin.com/company/rapidbizz/)
+- Instagram: [instagram.com/rapidbizz.pvt.ltd](https://www.instagram.com/rapidbizz.pvt.ltd/)
+- Facebook: [facebook.com/people/RapidBizz/61565985900019](https://www.facebook.com/people/RapidBizz/61565985900019/)
 
 *This organisation page is our public engineering home. Repositories here are showcase and product repos only — client work is never published without permission.*
