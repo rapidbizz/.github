@@ -35,8 +35,9 @@ We simplify the complex: one team for strategy, design, development, AI automati
 ## Our products
 
 - **RapidBookr** — Tourism booking and transfer management SaaS (admin, staff, suppliers, drivers, clients).
-- **RapidOS** — Business operating system with CRM, AI, and departmental workflows. *In progress.*
-- **Rapid Sec Labs** — Cybersecurity learning and training initiative.
+- **RapidOS** — AI-powered growth operating system: AI website audits, lead scoring, mission planning, outreach automation, telemetry, multi-AI routing. *In progress.*
+- **Rapid Sec Labs** — Cybersecurity learning and training platform.
+- **Bizz Flow** — Multi-tenant staff management SaaS: QR attendance, GPS radius, device lock, anti-fraud, billing. *In progress.*
 
 ---
 
