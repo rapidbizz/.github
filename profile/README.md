@@ -34,11 +34,11 @@ We simplify the complex: one team for strategy, design, development, AI automati
 
 ## Projects by RapidBizz
 
-- **RapidBookr** — Tourism booking and transfer management SaaS (admin, staff, suppliers, drivers, clients).
-- **RapidOS** — AI-powered growth operating system: AI website audits, lead scoring, mission planning, outreach automation, telemetry, multi-AI routing. *In progress.*
-- **Rapid Sec Labs** — Cybersecurity learning and training platform.
-- **Bizz Flow** — Multi-tenant staff management SaaS: QR attendance, GPS radius, device lock, anti-fraud, billing. *In progress.*
-- **Ostroluxx** — Client project: lighting brand website designed by RapidBizz — product catalogue, 3D models and SEO package.
+- [**RapidBookr**](https://github.com/rapidbizz/rapidbookr-showcase) — Tourism booking and transfer management SaaS (admin, staff, suppliers, drivers, clients).
+- [**RapidOS**](https://github.com/rapidbizz/rapidos-showcase) — AI-powered growth operating system: AI website audits, lead scoring, mission planning, outreach automation, telemetry, multi-AI routing. *In progress.*
+- [**Rapid Sec Labs**](https://github.com/rapidbizz/rapid-sec-labs-showcase) — Cybersecurity learning and training platform.
+- [**Bizz Flow**](https://github.com/rapidbizz/bizz-flow-showcase) — Multi-tenant staff management SaaS: QR attendance, GPS radius, device lock, anti-fraud, billing. *In progress.*
+- [**Ostroluxx**](https://github.com/rapidbizz/ostroluxx-showcase) — Client project: lighting brand website designed by RapidBizz — product catalogue, 3D models and SEO package.
 
 ---
 
