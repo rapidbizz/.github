@@ -3,7 +3,7 @@
   <img src="../assets/rapidbizz-logo-dark.png" alt="RapidBizz" width="360">
 </picture>
 
-# RapidBizz Pvt. Ltd.
+# RapidBizz
 
 ### We are The Brilliants In Terms Of Digital Agency.
 
